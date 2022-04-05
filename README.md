@@ -4,4 +4,4 @@
 
 шоркод : [cureuro]
 
-<?php echo do_shortcode( '[cureuro]' ); ?>
+ do_shortcode( '[cureuro]' )
